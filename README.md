@@ -4,7 +4,11 @@ Caro studente,
 
 Benvenuto nel repository relativo al corso *Deep Generative Models con Pyotrch*!
 
-In questa repo troverai i codici relatici a tutte le lezioni pratiche che abbiamo affrontato nei vari moduli. Nello spcifico i notebook sono divisi in questo modo:
+Qui troverai tutti i codici relativi a tutte le lezioni pratiche che abbiamo affrontato nei vari moduli. 
+
+Il codice e' stato sviluppato e testato usando i notebook messi a disposizione da google colab. Per tanto, se dovessi avere problemi a far girare il codice sulla tua macchina locale, ti consiglio di utilizzare colab... soprattutto se non hai una GPU a disposizione! :-D 
+
+I notebook che trovi in questa repo sono divisi nel seguente modo:
 
 1) [practice_basics_1.ipynb](https://github.com/DeepLearningItalia/Generative_Models/blob/main/practice_basics_1.ipynb) e [practice_basics_1.ipynb](https://github.com/DeepLearningItalia/Generative_Models/blob/main/practice_basics_2.ipynb) sono relativi al modulo 1 del corso;
 2) [vae.ipynb](https://github.com/DeepLearningItalia/Generative_Models/blob/main/vae.ipynb) contiene il codice relativo ai Variational AutoEncoders (VAEs) che abbiamo studiato nel modulo 2;
