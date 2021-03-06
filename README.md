@@ -4,7 +4,7 @@ Caro studente,
 
 Benvenuto nel repository relativo al corso *Deep Generative Models con Pyotrch*!
 
-Qui troverai tutti i codici relativi a tutte le lezioni pratiche che abbiamo affrontato nei vari moduli. 
+Qui troverai i codici relativi a tutte le lezioni pratiche che abbiamo affrontato nei vari moduli. 
 
 Il codice e' stato sviluppato e testato usando i notebook messi a disposizione da google colab. Per tanto, se dovessi avere problemi a far girare il codice sulla tua macchina locale, ti consiglio di utilizzare colab... soprattutto se non hai una GPU a disposizione! :-D 
 
