@@ -17,4 +17,4 @@ I notebook che trovi in questa repo sono divisi nel seguente modo:
 
 Autore:
 
-[Fabio Valerio Massoli](fabiovaleriomassoli@gmail.com)
+[Fabio Valerio Massoli](mailto:fabiovaleriomassoli@gmail.com)
